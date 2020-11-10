@@ -1,24 +1,24 @@
 ---
-title: "Open Research Webinars - December"
-headline: "Open Research Webinars - December"
+title: "Open Research Webinars"
+headline: "Open Research Webinars"
 subtitle: "Open collaboration in European research projects"
-tagline: "Series Launch: Tuesday, December 15, 2020, 16:00-17:00"
+tagline: "Series Launch: Tuesday, December 15, 2020, 16:00-17:00 CET"
 date: 2020-12-15T16:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
-header_wrapper_class: "header-default-event"
+header_wrapper_class: "header-default-event header-open-research-europe-event"
 hide_breadcrumb: true
 container: container-fluid
-summary: "Join us for the launch of Open Research Webinars on Tuesday, December 15, 2020 at 16:00"
-links: [[href: "#registration", text: "Register"]]
+summary: "Open Research Webinars is a series presenting software research projects that are helping to shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs."
+links: [[href: "#registration", text: "Register now"]]
 ---
 
 {{< grid/section-container id="registration" class="featured-section-row featured-section-row-lighter-bg" >}}
   {{< events/registration event="open-research-webinars" year="2020" title="About the Event" >}} 
 
 Join us for the launch of Open Research Webinars on Tuesday, December 15, 2020 at 16:00 CET. 
- 
-Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized and presented by OW2 and the Eclipse Foundation, they will focus on how multinational partners leverage open source in European publicly-funded collaborative research and innovation programs.
+
+Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
   {{</ events/registration >}}
 {{</ grid/section-container >}}
 
