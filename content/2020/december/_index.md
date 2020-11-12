@@ -59,8 +59,7 @@ Susan Iwai, Eclipse Foundation
  
 {{< grid/div class="col-md-8 padding-bottom-20" isMarkdown="true">}}
   #### **Supported by:**
-  
-  [![Brain IoT](images/brain_iot_logo.png)](http://brain-iot.eu)
+
   [![European Security and Privacy Projects](images/IoT_ESP_Small.png)](https://www.ngiot.eu/community/iot-esp-projects)
 {{</ grid/div >}}
 
