@@ -29,9 +29,7 @@ buildFuture = true # A new event website will always be in the future
   js = "js/solstice.js?v1"
   featured_content_publish_target = "eclipse_org"
   logo_left_width = 250
-  logo_right_width = 250
-  # logo_right_title = "Eclipse Foundation Research"
-  # logo_right_title = "OW2"
+  logo_right_width = 200
 
 [taxonomies]
 
