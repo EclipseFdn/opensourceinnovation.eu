@@ -11,13 +11,13 @@ items:
       type: session
       time: 16:15 - 16:35 (CET)
       abstract: |
-           <p>TBC</p>
+           <p>Factsheet: <a href="http://www.basys40.de/wp-content/uploads/2019/12/Flyer_BaSys42_english.pdf ">flyer</a></p>
     - name: "FASTEN: Scaling Static Analysis to ecosystems"
       presenter: <a href="speakers/#sebastian_proksch">Sebastian Proksch</a>
       type: session
       time: 16:35 - 16:55 (CET)
       abstract: |
-           <p>TBC</p>
+           <p>Factsheet: <a href="https://www.fasten-project.eu/download/Collateral/FASTEN%20Flyer/Leaflet_FASTEN_A4_2019_v2_ForPrint.pdf?rev=1.2">flyer</a></p>
     - name: "Wrap up"
       presenter: <a href="speakers/#cedric_thomas">Cédric Thomas</a>
       type: session
