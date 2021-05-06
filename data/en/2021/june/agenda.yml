@@ -18,7 +18,7 @@ items:
            SDKs that can be leveraged for realizing custom-tailored solutions using state-of-the-art concepts like 
            the Asset Administration Shell. Thus, BaSyx enables companies to easily implement Industry 4.0.</p>
            <ul>
-              <li><a hred="http://eclipse.org/basyx" target="_blank">Eclipse Basyx website</a></li>
+              <li><a href="http://eclipse.org/basyx" target="_blank">Eclipse Basyx website</a></li>
               <li><a href="http://www.basys40.de/wp-content/uploads/2019/12/Flyer_BaSys42_english.pdf" target="_blank">Factsheet (PDF)</a></li>
            </ul>
     - name: "FASTEN: Scaling Static Analysis to ecosystems"
