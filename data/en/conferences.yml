@@ -27,3 +27,12 @@ items:
     # logo_white: /images/jakartaone_livestream_wht_full-06.svg
     # logo_color: /images/jakarta_one_logo.png
     icon: fa fa-rocket
+  -
+    name: Open Research Webinars
+    location: Location, Location
+    date: 2021-09-28
+    end_date: 2021-09-29T00:00:00-00:00
+    url: /2021/september
+    # logo_white: /images/jakartaone_livestream_wht_full-06.svg
+    # logo_color: /images/jakarta_one_logo.png
+    icon: fa fa-rocket
