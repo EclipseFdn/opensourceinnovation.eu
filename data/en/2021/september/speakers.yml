@@ -4,7 +4,18 @@ items:
     title: "Senior AI Architect (Activeeon)"
     img: andrews_cordolino_sobral.jpg
     bio: |
-      <p>Coming soon...</p>
+      <p>Andrews Cordolino Sobral is a skilled software engineer working since November 2000 with low-level and 
+      high-level software design, development and architecture at several Information Technology (IT) companies.
+      From 2010, his research activities have been focused on intelligent image/video analysis for object detection, 
+      segmentation and tracking, to perform event/action recognition and behavior classification/prediction. 
+      Then, he received a Doctorate Degree (Ph.D.) in Computer Vision and Machine Learning at the University of 
+      La Rochelle (France) in 2017. Since then, he has closely followed the recent advances in deep neural networks, 
+      including neural network architectures, hyperparameter tuning, and optimization algorithms.
+      He also embedded real-time computer vision and machine learning models at the edge on system-on-a-chip (SoC) 
+      devices such as Raspberry PI, PandaBoard, and NVIDIA Jetson boards.
+      He is currently working as a Senior AI Architect and Head of the Machine Learning team at ActiveEon since 2017.
+      He is mainly focused on Artificial Intelligence (AI) at Scale, HPC+IA, MLOps, and helping the customers to 
+      automate and orchestrate AI-based workflows, scaling-up with parallel and distributed execution.</p>
 
   - name: "Jan-Philipp Steghöfer"
     anchor: jan_philipp_steghoefer

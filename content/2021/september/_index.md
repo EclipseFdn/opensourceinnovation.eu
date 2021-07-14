@@ -22,7 +22,7 @@ Join us for our next Open Research Webinars on Tuesday, September 28, 2021 at 16
 Through a selection of state-of-the-art project presentations and demonstrations, this new series of webinars introduces software research projects that help shape the future of open source software and the IT industry. Co-organized by OW2 and the Eclipse Foundation, the webinars will focus on international partners leveraging open source in European publicly-funded collaborative research and innovation programs.
 
 ### Presentations   
-[![Activeeon](images/activeeon.png)](https://www.activeeon.com/) [![Panorama](images/panorama.png)](https://www.panorama-research.org/)
+[![Activeeon](images/activeeon.png)](https://www.activeeon.com/) [![Capra](images/capra.png)](https://projects.eclipse.org/projects/modeling.capra)
 
    {{</ events/registration >}}
 {{</ grid/section-container >}}
