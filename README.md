@@ -10,13 +10,13 @@ The [opensourceinnovation.eu](https://opensourceinnovation.eu) website is genera
 Install dependencies, build assets and start a webserver:
 
 ```bash
-npm install 
+yarn
 hugo server
 ```
 
 ## Request an Event Website
 
-Eclipse Foundation Staff can request an Event website similar to [December](https://opensourceinnovation.eu/2020/december/) by creating a [GitHub issue](https://github.com/EclipseFdn/opensourceinnovation.eu/issues/new?template=event.md). 
+Eclipse Foundation Staff can request an Event website similar to [December](https://opensourceinnovation.eu/2020/december/) by creating a [GitHub issue](https://github.com/EclipseFdn/opensourceinnovation.eu/issues/new?template=event.md).
 
 The Eclipse Foundation Webdev team will start working on your request once the [Event Website Content Template](https://docs.google.com/document/d/1oVLBK8tzyuYC9OUisy1x-cc50PfGx0alnUHw9RYlZag) is completed and uploaded to your issue.
 
@@ -47,7 +47,7 @@ Images, less and JavaScript files for the Eclipse Foundation look and feel.
 
 ### [EclipseFdn/hugo-solstice-theme](https://github.com/EclipseFdn/hugo-solstice-theme)
 
-Hugo theme of the Eclipse Foundation look and feel. 
+Hugo theme of the Eclipse Foundation look and feel.
 
 ## Bugs and feature requests
 
