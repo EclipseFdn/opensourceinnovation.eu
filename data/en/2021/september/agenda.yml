@@ -33,7 +33,8 @@ items:
           links by providing a custom traceability information model.
           The presentation will be a great introduction to anyone looking for a traceability solution that can be 
           integrated into their existing Eclipse-based tool-chain as well as for engineers looking for a traceability 
-          management tools that fits their specific requirements. </p>
+          management tools that fits their specific requirements. Eclipse Capra is being further developed in the 
+          scope of the ITEA3 Project Panorama - Accelerating design efficiency for automotive and aerospace systems.</p>
     - name: "Wrap up"
       presenter: <a href="speakers/#marco_jahn">Marco Jahn</a>
       type: session
