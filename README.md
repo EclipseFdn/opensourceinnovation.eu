@@ -1,5 +1,12 @@
 # opensourceinnovation.eu
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/opensourceinnovation.eu) on October 14, 2021.
+
+---
+
 The [opensourceinnovation.eu](https://opensourceinnovation.eu) website is generated with [Hugo](https://gohugo.io/documentation/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d42015f-09c7-46b1-9f9c-419404d01f6d/deploy-status)](https://app.netlify.com/sites/eclipsefdn/deploys)
